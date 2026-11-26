@@ -16,6 +16,24 @@ Zonloom simplifies building geometry creation and preparation for energy modelin
 - Ladybug Tools / Honeybee
 - Human UI for components that use its interface
 - DesignBuilder to import and further edit the exported gbXML model
+  
+### Choose your language
+
+The ZIP package includes two language versions:
+
+- `Zonloom_En.gha` — English interface
+- `Zonloom_Fr.gha` — Persian (Farsi) interface
+
+1. Download and extract the ZIP file.
+2. Close Rhino.
+3. Remove the previously installed Zonloom `.gha` file from your Grasshopper Libraries folder.
+4. Copy only the `.gha` file for your preferred language into that folder.
+5. Restart Rhino.
+
+Install only one language version at a time.
+
+To locate the installation folder, open Grasshopper and select:
+File > Special Folders > Components Folder.
 
 ## Geometry input rules
 
